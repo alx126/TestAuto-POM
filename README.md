@@ -1,6 +1,6 @@
 # TestAuto-POM-BDD
-Test automation - POM-BDD
-Tema 11 - BDD, POM
+Test automation - POM
+Tema 11 - POM
 Exerciții Recomandate - grad de dificultate: Ușor
 1. Revizualizează întâlnirea 10 și ia notițe în caz că ți-a scăpat ceva.
 Exerciții obligatorii - grad de dificultate: Usor spre Mediu .
